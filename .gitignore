@@ -1,0 +1,9 @@
+/build/
+*.o
+*.so
+*.pcm
+*.root
+/plots/
+/results/
+*.png
+*.pdf
